@@ -6,4 +6,4 @@ A couple of Jupyter Notebook-based cheatsheets for learning Python.
 * UsingAPIs: Demonstrates the basics of using APIs to access various types of data.
 * UsingPandas
 * PythonTextMining
-* PracticeProjects
+* PracticeProjects: A few small projects I created to practice coding in Python. Includes earlier iterations of my Bulk File Rename project and Automated Google Scholar Search project.
